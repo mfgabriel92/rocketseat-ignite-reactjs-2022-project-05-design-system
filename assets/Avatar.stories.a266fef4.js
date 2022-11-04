@@ -1,0 +1,2 @@
+import{A as r}from"./index.2b087195.js";import"./index.63acad8a.js";import"./iframe.5a625793.js";import"./index.fcae0f5d.js";import"./jsx-runtime.7d7a59cf.js";const m={title:"Display/Avatar",component:r,args:{src:"https://github.com/mfgabriel92.png"}},p={},c={args:{src:void 0}},e=["Primary","Fallback"];export{c as Fallback,p as Primary,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.a266fef4.js.map
