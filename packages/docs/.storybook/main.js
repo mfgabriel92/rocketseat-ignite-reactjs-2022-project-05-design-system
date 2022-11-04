@@ -14,5 +14,12 @@ module.exports = {
   },
   "features": {
     "storyStoreV7": true
+  },
+  "viteFinal": (config, { configType }) => {
+    if (configType === "PRODUCTION") {
+      config.base = "/rocketseat-ignite-reactjs-2022-project-05-design-system";
+    }
+
+    return config;
   }
 };
